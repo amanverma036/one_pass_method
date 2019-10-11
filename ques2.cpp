@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 	int n,m,i,j,k,d;
-	int arr[60];
+	int arr[70];
 	int Arr[60];
 	int ord[60];
 	d=0;
